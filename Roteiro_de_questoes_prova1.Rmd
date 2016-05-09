@@ -1,0 +1,15 @@
+---
+title: "1º roteiro de questões (Prova1) CE738"
+author: "Henrique Capatto"
+output: html_document
+---
+
+*1.*) Quais as diferenças centrais entre o "método  analítico" e o 
+  método da "economia política"?
+  
+  **Resposta**:
+  As diferenças centrais consistem na forma na qual a economia é enxergada pois enquanto no método analítico procura-se o conhecimento econômico por meio de critério dedutivos, sistemas lógicos-formais densos,grande rigor matemático, próprio das ciências 
+naturais, e com isso transformar a economia numa ciência formal, como a Física. Além disso, há o enfoque em teorias atemporais em detrimento das dependentes da temporalidade. Exise o prisma do "individualismo metodológico", ou seja, o agente economico é o individuo sendo este o responsável pelas ações e com isso, basea-se a análise economica no estudo dessas interações entre esses entes, formando esse o espectro primordial da investigação. O conceito de Equilíbrio economico é fundamental para esse tipo de método pois elucida quais caminhos na qual a economia pode andar.
+
+Em contra-partida, no método da "economia política" a análise ganha aspectos temporais, como por exemplo quando se recorre a História em busca de exemplos e/ou contra-exemplos
+nos quais alguns economistas buscam legitimar suas teorias e/ou respostas para questões economicas contemporâneas a eles. Busca-se nesse processo, estudos e interpretações do modo organizacão social das sociedades antepassadas em vias de respostas, soluções para problemas contemporâneos, ou seja, é o enfoque temporal já supracitado. Diferentemente do método analítico, não há enfoque em teorias atemporais e que valham em todos os lugares, existe, sim, o estudo detalhado dessas diferenças, sejam geográficas, sociais, políticas para elaboração de um arcabouço teórico que possibilita o entendimento da Econômia, enuqnao fenomêno humano e social. Para que essas análises sejm feitas, usa-se a lógica dialética, consisindo, de modo grosseiro, em Tese, Antítese e Sintese. 
