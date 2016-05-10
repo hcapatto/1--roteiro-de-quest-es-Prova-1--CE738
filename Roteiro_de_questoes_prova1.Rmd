@@ -13,3 +13,80 @@ naturais, e com isso transformar a economia numa ciência formal, como a Física
 
 Em contra-partida, no método da "economia política" a análise ganha aspectos temporais, como por exemplo quando se recorre a História em busca de exemplos e/ou contra-exemplos
 nos quais alguns economistas buscam legitimar suas teorias e/ou respostas para questões economicas contemporâneas a eles. Busca-se nesse processo, estudos e interpretações do modo organizacão social das sociedades antepassadas em vias de respostas, soluções para problemas contemporâneos, ou seja, é o enfoque temporal já supracitado. Diferentemente do método analítico, não há enfoque em teorias atemporais e que valham em todos os lugares, existe, sim, o estudo detalhado dessas diferenças, sejam geográficas, sociais, políticas para elaboração de um arcabouço teórico que possibilita o entendimento da Econômia, enuqnao fenomêno humano e social. Para que essas análises sejm feitas, usa-se a lógica dialética, consisindo, de modo grosseiro, em Tese, Antítese e Sintese. 
+
+*2.*) O que significa "Economia" para as diferentes alternativas metológicas estudadas?
+  
+ **Resposta**:
+
+*6.*)De que forma se avalia o produto agregado da economia quando utilizamos a ótica do produto?
+
+ **Resposta**:
+
+Quando utilizamos fazemos a somatória de todos os produto, obtemos um valor chamado de 
+**Valor Bruto de Produção(VBP)**porém nesse valor, há contagens duplas portanto para acharmos o porudto agregado basta subtrairmos o valor dos insumos gregados e chegaremos no resultado.
+
+ **Outra Resposta**:
+
+Para termos uma idéia do que é a Ótica do Produto:
+A ótica do produto designa uma das formas de cálculo da produção de determinada economia num determinado período de tempo e que se baseia no fato de que o valor de todos os produtos finais é igual ao somatório dos valores acrescentados durante o processo produtivo por cada uma das entidades que intervêm nesse mesmo processo produtivo. Ao utilizar este método do valor acrescentado (por vezes designado por método dos acréscimos) é anulado o problema da múltipla contagem. Assim, 
+$$
+\sum (Vai)
+$$
+
+em que $Vai$ representa o Valor Acrescentado por cada uma das unidades produtivas intervenientes.
+
+*7.*) Por que a soma das remunerações pagas aos diversos fatores de produção pode ser um caminho para a avaliação do produto da economia? De que ótica estamos falando?
+
+ **Resposta**:
+ 
+ Estamos falando da **_ótica da renda_**. Podemos avaliar o produto da economia por meio dessas remunerações pois Temos uma identidade $produto\equiv dispendio\equiv Renda$ que pode ajudar no referido calcúlo.
+ 
+ **Outra Resposta**:
+ 
+ Para termos uma idéia do que é a **Ótica da Renda**:
+O conceito de renda refere-se a remuneração dos fatores de produção envolvidos no processo produtivo. Os tipos de remuneração são: salários pagos ao fator trabalho, juros que remuneram o capital de empréstimo, aluguéis pagos aos proprietários aos bens de capital (edifícios, máquinas, etc), lucros que remuneram o capital produtivo (capital de risco) e impostos (renda do governo).
+$$
+Produto(Valor.Agregado) = Demanda.Final(Dispendio=Consumo+Investimento+Expor–Impor)=Renda(salários + lucros + juros + aluguéis)
+$$
+
+*8.*)Por que o produto, a renda e o dispêndio agregados conformam uma identidade?
+
+ **Resposta**:
+ 
+ Porque o mesmo cálculo é feito,ou seja, os mesmos fatores são avaliados e o resultado é igual porém a abordagem é diferente para o cálculo, seja através do produto, renda ou dispêndio.
+ 
+ *9.*) Qual a relação entre a "evolução e sofisticação" da divisão do trabalho com o grau de complexidade das economias modernas?
+ 
+ **Resposta**:
+ 
+ A relação é intrínseca e de causa-efeito, ou seja, o grau de complexidade numa economia é incrementado conforme a complexidade do trabalho exigido dentro dela(economia) é também incrementado, por exemplo, pode-se medir a complexidade de uma economia moderna pelo revolução tecnológica ocorrida em fins do século XX, na qual a informática revolucionou as formas de interações humanas e ela dentro dessa mudança, encontra-se um alto grau de complexidade, tanto na forma como é feita, ou seja, das nuances que envolve o trabalho e alto grau de abstração existente, seja nos ramos na diversidade dos ramos de produção encontrados na indústria eletro-eletrônica. O oposto também é válido, é uma relação "se, e somente se"($\Leftrightarrow$), explicitamente, se para produção de algo exigi-se menor complexidade pordutiva e técnica, menos complexa será a economia.
+ 
+*10.*) Por que a transição para as formas modernas da divisão do trabalho só pode ser pelo desenvolvimento da agricultura e da pecuária?
+
+ **Resposta**:
+ 
+*11.*)A criação de "excedente" foi condição suficiente para impulsionar a divisão do trabalho? Quais seus limites?
+
+ **Resposta**:
+ 
+*12.*) Em que consiste a produção de "excedente"?
+
+ **Resposta**:
+ 
+*13.*) Qual a relação entre uma economia moderna capitalista e a produçã excedente?
+
+ **Resposta**:
+ 
+*14.*) Por que uma economia capitalista não é caracterizada somente pela produção de excedente mas por uma produção baseada no excedente?
+
+ **Resposta**:
+ 
+*15.*) Qual a importância do surgimento da metalurgia para o desenvolvimento das economias modernas? Como você explica esse surgimento?
+
+ **Resposta**:
+ 
+*16.*) Qual a importãncia do desenvolvimento das cidades para a consolidação das formas modernas da divisão do trabalho?
+
+ **Resposta**:
+ 
+
