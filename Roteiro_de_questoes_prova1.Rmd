@@ -18,6 +18,27 @@ nos quais alguns economistas buscam legitimar suas teorias e/ou respostas para q
   
  **Resposta**:
 
+
+*3.*)Como devem ser entendidas as identidades macroeconômicas e qual é a relação que existe entre troca e identidade contábil?
+
+ **Resposta**:
+ Identidades são expressões que possuem uma certa relação de igualdade (não de ordem, precedência, que fique bem claro) entre seus elementos (S ≡ I). 
+A relação entre troca e identidade contábil fica por conta da troca, pelo ponto de vista analítico, conforma uma identidade (compra ≡ venda).
+
+*4.*)Qual é a diferença entre valor bruto de produção e produto? 
+
+ **Resposta**:
+ 
+ Produto é a soma de tudo que se produziu realmente em cada nível produtivo (levando em conta a ótica do produto), já o valor bruto da produção é a soma de tudo que se produziu em cada nível produtivo, incluindo bens e serviços consumidos no processo de produção.
+
+Produto: a medida, em unidades monetárias, do fluxo total de bens e serviços finais produzidos pelo sistema econômico em determinado período. Em outras palavras significa um indicador do produto total desenvolvido em cada um dos setores do aparelhamento produto interno (setores).
+ 
+*5.*)Considerando a ótica do dispêndio, como se deve definir um bem final?
+
+ **Resposta**:
+
+Como todo bem que ainda não foi consumido (tanto de natureza final,quanto de insumo).
+ 
 *6.*)De que forma se avalia o produto agregado da economia quando utilizamos a ótica do produto?
 
  **Resposta**:
@@ -35,6 +56,11 @@ $$
 
 em que $Vai$ representa o Valor Acrescentado por cada uma das unidades produtivas intervenientes.
 
+ **Outra Resposta**
+
+Se avalia pela soma dos acréscimos de cada setor produtivo no produto
+
+
 *7.*) Por que a soma das remunerações pagas aos diversos fatores de produção pode ser um caminho para a avaliação do produto da economia? De que ótica estamos falando?
 
  **Resposta**:
@@ -49,11 +75,17 @@ $$
 Produto(Valor.Agregado) = Demanda.Final(Dispendio=Consumo+Investimento+Expor–Impor)=Renda(salários + lucros + juros + aluguéis)
 $$
 
+**Outra Resposta**
+
+Estamos falando sobre a ótica da renda, nela os indivíduos são vistos como portadores de fatores de produção que trocam esses fatores nas empresas por uma participação no produto final, logo em qualquer processo produtivo, sempre haverá uma igual remuneração as famílias em relação ao produto final (seja ele final por natureza ou não).
+
 *8.*)Por que o produto, a renda e o dispêndio agregados conformam uma identidade?
 
  **Resposta**:
  
  Porque o mesmo cálculo é feito,ou seja, os mesmos fatores são avaliados e o resultado é igual porém a abordagem é diferente para o cálculo, seja através do produto, renda ou dispêndio.
+
+Porque podemos medir o produto agregado de uma economia usando tanto a ótica do produto, quanto a da renda e dispêndio.
  
  *9.*) Qual a relação entre a "evolução e sofisticação" da divisão do trabalho com o grau de complexidade das economias modernas?
  
@@ -65,28 +97,146 @@ $$
 
  **Resposta**:
  
+ Pois inicialmente o homem permaneceu preso à formas primitivas de divisão do trabalho, como na caça e coleta,por exemplo, no qual o trabalho poderia ser realizado por poucos, não havia necessidade de grande especialização, nem de um ferramental complexo.
+ Com o surgimento da agricultura e pecuária, as técnicas foram se sofisticando de tal modo que a tecnologia foi, de grooso modo, também se apromorando, demandando um modo um tipo de trabalho mais especializado e com isso, gerando uma cadeia produtiva cada vez mais especializada e, desse modo, complexificando o trabalho(talvez num modelo recursivo). Também pode-se ressaltar que atráves da agricultura pode-se criar excedentes(sementes e viveres) e contribuiu para alguns poderem largar esses serviços mias rudimentares, direcionando-os a outras atividades humanas, como a ecumênica, governamental(construção de cidade,  à exemplo) e,portanto, contribuindo para especialização do trabalho.
+ 
 *11.*)A criação de "excedente" foi condição suficiente para impulsionar a divisão do trabalho? Quais seus limites?
 
  **Resposta**:
+ 
+ Não pois com o ínicio da produção de excedente houve também a complexização do trabalho e consequentemente contribuiu para divisão do trabalho, porém tudo isso não é suficiente para explicar porque há de tribos em que a agricultura é subordinada a atividades primitivas. O que pode explicar o impulsionamento é a produção baseada no excedente, na aplicação produtiva deste e no seu crescimento. Os seus limites podem ser vistos pela visão da escravidão, onde uma parcela da sociedade não trabalha enquanto outra trabalha para promover a existência dos mesmos, onde as pessoas passam a ser o instrumento de produção.
+
  
 *12.*) Em que consiste a produção de "excedente"?
 
  **Resposta**:
  
+ Produto de "execedente" consiste exatamente em tirar uma parte da produção que é retirada de circulação dos próprios produtores para outras aplicações.
+ 
+ **Outra Resposta**:
+ 
+ O conceito de excedente envolve a fração da produção social não consumida pelos produtores ou que, no termo do circuito produtivo, ultrapassa os consumos necessários à reprodução, sendo absorvida em geral pelas classes não produtivas.
+
 *13.*) Qual a relação entre uma economia moderna capitalista e a produçã excedente?
 
  **Resposta**:
+ 
+ A produção baseada no excedente possibilitou uma diversificação tecnológica e a complexização do trabalho, incremento da produtividade e, desse jeito, aumenta a complexidade econõmica. Possibilita também , o investimento, essencial para o desenvolvimento das grandes indústrias da atualidade.
+ 
+ **Outra Resposta**:
+ 
+ Como a produção do excedente possibilitou o pontapé inicial para a diversificação do trabalho, um ramo da diversificação foi direcionado à industrialização da economia, essa foi responsável pelo aumento da produtividade do trabalho e o aumento inerente da especialização das atividades econômicas, exemplo disso foi a Revolução Industrial, que acarretou na inovação tecnológica trazendo consigo pesquisas básicas, aplicadas e de desenvolvimento para alavancar mais ainda a produção.
  
 *14.*) Por que uma economia capitalista não é caracterizada somente pela produção de excedente mas por uma produção baseada no excedente?
 
  **Resposta**:
  
+ Porque o excedente em si não gera crescimento, complexização, por exemplo como acontece em tribos, aonde a agricultura é subordinada a atividade mais primitivas.
+ Quando a produção é baseada no excedente, ela pode adquirir um status como o de "investimento", ou seja, ela é utilizada na ampliação da produção.
+ 
 *15.*) Qual a importância do surgimento da metalurgia para o desenvolvimento das economias modernas? Como você explica esse surgimento?
 
- **Resposta**:
+ **Outra Resposta**:
+ 
+ A indústria metalúrgica básica compreende cinco grupos de atividades: produção de ferro-gusa e de ferros-liga; siderurgia; fabricação de tubos, exceto em siderúrgicas; metalurgia de metais não ferrosos e fundição. Nos séculos XVI e XVII houve um grande avanço tecnológico destes grupos permitindo a obrtenção de ferro fundido, material que revolucionaria a indústria de canhões da época ao substituir os canhões de bronze. Portanto, neste período, grande parte do mercado que recebia produtos de ferro fundido era o da indústria bélica e sua exigência técnica de operação contínua transformaram a dimensão dos empreendimentos. 
+A siderurgia norte européia do século XVIII, particularmente a inglesa, sofria duas grandes limitações: o crescimento do consumo de ferro e aço utilizava quantidades absurdas de carvão vegetal a ponto de devastar quase todas as florestas do país; por outro lado, a tecnologia de refino do gusa continuava sendo um gargalo produtivo, já que os fornos não atingiam a temperatura necessária e o consumo de combustível era considerável. A solução ao primeiro problema poderia vir do uso de carvão mineral, mas seu teor de enxofre o inviabilizou por produzir gusa e ferro frágeis.
+Durante os séculos XVII e XVIII, foram patenteados métodos de utilização de carvão mineral, mas somente com a introdução de coqueificação, em 1735, que se obteve êxito completo de operação de um alto-forno. O desenvolvimento dessa técnica (coqueificação) transformou a Inglaterra, ao final do século, em grande exportadora de ferro e aço.
+Assim, o preço do aço teve uma queda considerável devido à agora sua fácil produção. O aço por sua vez, tem um papel crucial na econômia e a sua fácil produção proporcionou um desenvolvimento econômico na época.
+
+http://www.pmt.usp.br/notas/notas.htm
  
 *16.*) Qual a importãncia do desenvolvimento das cidades para a consolidação das formas modernas da divisão do trabalho?
 
  **Resposta**:
  
+ O surgimento das cidades pressupôe a produção de excedente para o consumo dessas populações. Partindo desse pressuposto, pode-se saber que as pessoas que viviam nas cidades se dedicavam a outras atividades para além da agricultura. O desenvolvimento de técnicas de agricultura e também o avanço do comércio, antes trocas, depois monetárias, ocorriam dentro, fora e entre cidades. Portanto, a cidade exercia um papel fundamental pois concentrava o desenvolvimento de tecnologia, o comécio e , com isso, aumentava a divisão do trabalho e o progresso da própria agricultura.
+ 
+ **Outra Resposta**:
+ 
+ Podemos observar o surgimento e desenvolvimento das cidades mercantis a partir do momento logo após o surgimento do Calvinismo, o surgimento do protestantismo veio contra as idéias do cristianismo de deteriorização da vida terrena em prol da vida espiritual após a morte, a igreja católica defendia o não acumulo de riquezas, Calvino veio com a ideia da predestinação, as pessoas já nasciam com o destino marcado se iriam ao céu ou ao inferno, isto afetou os dogmas católicos a ponto do surgimento dos comerciantes (ou mascates) da época pré-cruzada. Este foi um fator crítico da transição de estagnação para a movimentação do sistema econômico medieval. Os comerciantes viajam todo o velho continente vendendo especiarias de ponta a ponta. Como as jornadas eram grandes e populosas, nos tempos de descanso começaram a aparecer certas comunidades que hoje evoluíram para cidades. Vale-se destacar que este tipo de comunidade mercantil foi o primeiro a ser instalado, pois algumas outras cidades foram formadas a partir de bases imperiais avançadas da época. Com a criação destas cidades, a crise do feudalismo se agravou, os comerciantes acumularam uma grande quantidade de riquezas enquanto os nobres da época assistiam de camarote suas rendas milionárias se esgotar. A população do campo que na época trabalhava para os senhores feudais começaram a se deslocar para os centros comerciais das pequenas comunidades, logo as comunidades cresceram e as necessidades consigo vieram, diferentes necessidades requerem maior produção e mais diversificada, logo começaram a surgir as divisões do trabalho. Extrapolando essa divisão para aproximadamente 400 anos posterior, estamos na revolução industrial da Inglaterra onde todos os setores começaram a ser fracionados e as linhas de produção cada vez mais divididas, juntamente com as grandes invenções da época.
 
+ 
+ *17.*) Em que consiste a "divisão social do trabalho"? Dê exemplos
+ 
+  **Resposta**:
+
+A expressão ‘divisão social do trabalho’ tem sido usada no sentido cunhado por Karl Marx (1818-1883) e também referendada por autores como Braverman (1981) e Marglin (1980) para designar a especialização das atividades presentes em todas as sociedades complexas, independente dos produtos do trabalho circularem como mercadoria ou não. Designa a divisão do trabalho social em atividades produtivas, ou ramos de atividades necessárias para a reprodução da vida. Marx, em O Capital (1982), diz que a ‘divisão social do trabalho’ diz respeito ao caráter específico do trabalho humano.
+Um animal faz coisas de acordo com o padrão e necessidade da espécie a que pertence, enquanto a aranha é capaz de tecer e o urso de pescar, um indivíduo da espécie humana pode ser, “simultaneamente, tecelão, pescador, construtor e mil outras coisas combinadas” (Braverman, 1981, p. 71). Essa capacidade de produzir diferentes coisas e até de inventar padrões diferentes dos animais não é possível ser exercida individualmente, mas a espécie como um todo acha possível fazer isso, em parte pela divisão do trabalho.
+“A divisão social do trabalho é aparentemente inerente característica do trabalho humano tão logo ele se converte em trabalho social, isto é, trabalho executado na sociedade e através dela” (Braverman, 1981, p. 71-72). A produção da vida material e o aumento da população geram relação entre os homens e divisão do trabalho. Os vários estágios da divisão do trabalho correspondem às formas de propriedade da matéria, dos instrumentos e dos produtos do trabalho verificados em cada sociedade, nos diversos momentos históricos (Marx, 1982).
+
+
+*18.*) Em que consiste a "divisão técnica do trabalho"? Cite alguns exemplo
+  
+   **Resposta**:
+
+A divisão técnica do Trabalho consiste , em relação a ao grau de complexidade que há no trabalho, logo nem todos
+conseguem exercer amesma profissão por causa dsses graus de complexidade e isso acarreta uma divisão técnica, por exemplo um artesão, não é especializado
+quanto um enegenheiro elétrico ou estatístico.
+
+    **Outra Resposta**:
+   
+A Divisão tecnica do trabalho corresponde à especialização de tarefas com funções específicas, com finalidade de dinamizar e otimizar a produção industrial. A especialização delimitada de funções e tarefas nas etapas produtivas industriais é derivada, principalmente, do crescimento do comércio, do capitalismo e impulsionada pela intensificação da produção industrial. 
+Pode-se dizer que a divisão do trabalho faz com que o trabalhador adquira, com a tarefa repetitiva, uma agilidade maior e com isso fique “treinado” na execução de seus movimentos, provocando assim uma diminuição no tempo gasto, o resultado é o aumento da produção em todo período de trabalho. O sistema fordisita de produção é basicamente pautado na divisão técnica do trabalho.
+  
+
+*19.*) Em que consiste a "divisão internacional do trabalho"? Cite exemplos
+  
+   **Resposta**:
+ 
+Consiste em repartir atividades e serviços enre os países.Esse processo se incia com 
+a relação metróple-colônia, onde na colônia se fazia extensiva exploração por parte da metrópole.
+Em geral, os países emergentes são caracterizados pela produção de ebens primários, mão-de-obra barata e baixa industrialização,
+enquanto que os países desenvolvidos são responsáveis pela produção e exportação tecnologia e produtos altamente tecnolóicos.
+Um conceito importante utilizado pelo DIT é que nenhum país consegue ser competitivo em todas as áreas, sendo assim, é necessário um direcionamento da economia. 
+*20.*) Quais os principais pressupostos de uma economia moderna? Explique
+  
+   **Resposta**:
+
+Os principais pressupostos são:
+
+Alta capacidade tecnológica, alta competividade. Mais pessoas agregadas no setor terciário.
+  
+
+
+  **Outra Resposta**
+
+Uma economia moderna é uma economia diversificada, onde a maioria da população se encontra no setor terciário (prestador de serviços), poucas pessoas no campo, pois a tecnologia para a produção agrária é forte e eficaz. No setor secundário há poucas pessoas 
+pois a necessidade da mão de obra industrial é baixa, pois da mesma maneira que a do setor primário, a tecnologia é de ponta e se encarrega de suprir a mão de obra.  
+
+*21.*) Como você explica o crescimento contínuo da produtividade durante o período de transição para as economias modernas?
+  
+**Resposta**:
+
+Esse processo ocorre atráves do inovação tecnológica que que a produção baseada no excedente pois as economias modernas se caracterizam pela diversificação, e pela complexidade de bens e serviços necessários a produção. Logo, sabemos também a importância do investimento e da diferenciação no processo de transição para as economias modernas> Para ocorrer essas mudançãs, foram necessárias a realização de pesquisas cientifícas e logo juntando esses fatores, é o justifica a inovação tecnológica explicar o cescimento continuo da produtividade durante o período de transição para as economias modernas.
+
+**Outra Resposta**:
+
+Antigamente, no feudalismo, a produtividade era estática, podemos observar que a economia medieval não era impulsora de produção, vide Leonardo da vinci que raramente inventou algo relacionado a economia mercantil, a maioria das de suas invenções foram feitas para diversão pessoal. A partir do crescimento das cidades, a divisão do trabalho vai se intensificando, quando é o momento de chegada da Revolução Industrial, as indústrias crescem absurdamente em todos os setores, a Inglaterra possuía uma grande quantidade de riquezas instauradas desde as grandes navegações, juntamente com isto veio o fator das grandes invenções como por exemplo a de James Watt para a máquina à vapor, que alavancou absurdamente a produção inglesa no século XIV. Após isso, a Inglaterra vivenciou um crescimento contínuo devido à falta de competitividade do cenário internacional.
+
+*22.*) Cite as diferenças centrais entre as formas de mercadorias, isto é, o artesanato, a manufatura e agrande indústria. Explique
+  
+  **Resposta**:
+  
+No artesanato, a forma de produção é individual, demanda pouca complexidade construtiva, a complexidade tecnológica, nas maioria dos casos, também é diminuta, tanto quanto, em alguns casos,esta se torna desnecessáia ao artesanato. Por outro lado, o artesão detinha os meios de produção, cuidava da obtenção de matéria prima e , ainda assim, responsabilizava-se pela troca, por ser entendido como venda também. Em muitos, os artesão produziam seus próprios instrumentos de trabalho.
+
+Na manufatura, a forma de produção era coletiva, mas não envolvia um trabalho tão especializado, como na grande industria mas, já um maior emprego de tecnologia, o trabalho não é tão centralizado numa pessoa pois este não produz o instrumento de trabalho ou vende,ele foca apenas na produção, porém ainda os meios de produção pertencem aos que produzem.
+
+Na grande Indústria, a forma de produção tamém é coletiva, porém a uma intensiva utilização de máquinário, sendo este muito especializado. AS máquinas passam a controlar o processo produtivo e a determinar uma divisão de tarefas dentro da unidade de produção. O advento do sistema de máquinas permite que o processo de trabalho vá se ornando cada vez mais independente da habilidade de cada trabalhador individual e passe a repousar sobre a aplicação imediata da ciência à produção. O fenômeno moderno da contínua inovação tecnológica é um corolário da aplicação sistemática da ciência à produção. 
+  
+*23.*)Qual a relação entre "indústria moderna" e "inovação tecnológica"?
+
+ **Resposta**:
+
+Na economia moderna, a produção de conhecimento é uma tividade extremamente complexa e diversificada. Por outro lado, a produção de conhecimento
+traz três campos de pesquisa.(pesquisa de base, pesuisa aplicada e pesquisa&desenolvimento).
+Logo, juntando as duas coisas, sabe-se que, pela competividade, as industrias buscam se diferenciar, em vias 
+de obeter sucesso, portanto a inovação tecnológica entra como um fator determinante nessa disputa pois
+através dela pode-se gerar processos mais eficientes, produtos melhores, e isso acarreta a aceleração do progresso tecnológico.
+ 
+*24.*)Quais são os estágios do processo de conhecimento antes de se tornar disponível?
+
+ **Resposta**:
+
+Primariamente: Pesquisa Básica: Novo conhecimento, descobertas de novas propriedades.
+Secundariament: Pesquisa Aplicada: aproveitamento pratico do novo conhecimento.
+Terciariamente: Pesquisa e Desenvolvimento: Aplicação da pesquisa
